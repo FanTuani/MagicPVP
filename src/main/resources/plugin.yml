@@ -1,0 +1,21 @@
+name: MagicPVP
+version: 1.0
+main: top.ricequakes.magicpvp.MagicPVP
+commands:
+  setfire:
+    description: Set fire
+    usage: /setfire
+#    permission: op
+
+  setspawn:
+    description: Set spawn location
+    usage: /setspawn
+#    permission: op
+
+  setvoidheight:
+    description: Set the height that players need to be respawn
+    usage: /setvoidheight
+#    permission: op
+  seteggcd:
+    description: Set the egg cd
+    usage: /seteggcd
